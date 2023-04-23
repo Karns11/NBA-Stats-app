@@ -1,0 +1,21 @@
+@media (min-width: 768px) {
+    span {
+        width: 15%;
+    }
+}
+
+@media (max-width: 768px) {
+    span {
+        width: 30%;
+    }
+}
+
+@media (max-width: 576px) {
+    span {
+        width: 35%;
+    }
+}
+
+.text-success {
+    color: rgb(89, 255, 0);
+}
